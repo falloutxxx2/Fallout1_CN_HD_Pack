@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 Fallout1_CN_HD_Pack contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+SCOPE OF THIS LICENSE
+--------------------------------------------------------------------------
+The MIT license above covers only the scripts and documentation authored for
+this project (install.cmd, uninstall.cmd, tools/*.ps1, the launcher scripts,
+build-release.ps1, README.md and docs/*).
+
+It does NOT cover, and cannot grant any rights to:
+
+  * Fallout 1 game assets and code - (c) Bethesda Softworks / Interplay.
+  * The 2007 Simplified Chinese fan translation ("异尘余生汉化包" by 13号避难所 /
+    bn13.com: FALLOUTW.EXE, fallout_font.dll, the Chinese *.MSG text and the
+    Chinese interface art). Program by noword; the full translator list is in
+    README.md under 致谢.
+  * The f1_res high resolution patch - (c) 2008-2014 Matt Wells (Mash).
+
+Those files are deliberately not distributed in this repository. See
+payload/README.md for how to supply them yourself.

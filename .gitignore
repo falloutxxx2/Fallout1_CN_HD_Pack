@@ -1,0 +1,17 @@
+# 本仓库只放脚本与文档。
+# 汉化补丁文件（FALLOUTW.EXE、fallout_font.dll、中文 *.MSG、中文界面 *.FRM 等）
+# 属于第三方汉化作者与 Bethesda 的版权作品，不入库、不随仓库分发。
+payload/*
+!payload/README.md
+
+# 安装脚本的运行产物
+backup/
+Fallout1_CN_HD_Pack.zip
+*.zip
+
+# 杂项
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.vscode/

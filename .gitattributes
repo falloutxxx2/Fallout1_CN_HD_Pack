@@ -1,0 +1,19 @@
+# .cmd 必须保持 CRLF + 纯 ASCII（cmd.exe 在中文 Windows 上按 GBK 读取）
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.txt text eol=crlf
+*.md  text eol=lf
+
+# 补丁文件全是二进制，禁止任何换行/编码转换
+*.exe   binary
+*.dll   binary
+*.dat   binary
+*.FRM   binary
+*.frm   binary
+*.MSG   binary
+*.msg   binary
+*.GCD   binary
+*.ico   binary
+*.rtf   binary
+*.zip   binary
+*.png   binary
