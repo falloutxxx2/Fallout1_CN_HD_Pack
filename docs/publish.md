@@ -1,5 +1,9 @@
 # 把这个仓库发到 GitHub
 
+> **状态：已发布。** 本仓库已按下面的「方式 A」推上 GitHub：
+> <https://github.com/falloutxxx2/Fallout1_CN_HD_Pack>（public，`main` 分支）。
+> 步骤保留在此，方便别人 fork 出去自己再发一份。
+
 仓库内容已经在 `D:\Fallout1_CN_HD_Pack\` 整理好了（`.gitignore` 已把 `payload\`
 排除在外）。下面三种方式任选一种，都不需要先懂 git。
 
